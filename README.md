@@ -1,1 +1,25 @@
-the Ramkrishna
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTI-8">
+        <meta http-equiv="X-UA-Cpmpatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="The RK Education.css">        <!--CSS file-->
+        <link rel="stylesheet" href="../all.css">                  <!-- ICONS -->
+        <title>The RK Education - world</title>
+</head>
+</body>
+  <nav class="navlist">
+    <ul>
+        <li><h4>TMC.</h4></li>
+        <li><a href="">HOME</a></li>
+        <li><a href="">ABOUT</a></li>
+        <li><a href="">COURSE</a></li>
+        <li><a href="">FACULTY</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+        <h1>The RK Education, world</h1>
+        <p>RK Education world</p>
+        <title>Login Form</title>
+    
